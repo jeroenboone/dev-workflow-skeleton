@@ -1,38 +1,28 @@
-# green balls
-greenballs:1.15
-
-# git dependencies
-git-client:1.19.1
-scm-api:1.0
-matrix-project:1.6
-credentials:1.24
-mailer:1.16
-ssh-credentials:1.11
-
-# git
-git:2.4.1
-
-# worfklow-aggregator dependencies
-script-security:1.17
-workflow-step-api:1.13
-workflow-basic-steps:1.13
-workflow-scm-step:1.13
-workflow-api:1.13
-durable-task:1.7
-workflow-support:1.13
-jquery-detached:1.2
-ace-editor:1.0.1
-workflow-cps:1.13
-git-server:1.6
-workflow-cps-global-lib:1.13
-workflow-job:1.13
-workflow-durable-task-step:1.13
-authentication-tokens:1.2
-
-# worklfow plugin
-workflow-aggregator:1.13
-
-# workflow stage view dependencies
-mapdb-api:1.0.6.0
-momentjs:1.1
-handlebars:1.1
+greenballs:1.15                                   
+git-client:1.19.1                                 
+scm-api:1.0                                       
+matrix-project:1.6                                
+credentials:1.24                                  
+mailer:1.16                                       
+ssh-credentials:1.11                              
+git:2.4.1                                         
+script-security:1.17                              
+workflow-step-api:1.13                            
+workflow-basic-steps:1.13                         
+workflow-scm-step:1.13                            
+workflow-api:1.13                                 
+durable-task:1.7                                  
+workflow-support:1.13                             
+jquery-detached:1.2                               
+ace-editor:1.0.1                                  
+workflow-cps:1.13                                 
+git-server:1.6                                    
+workflow-cps-global-lib:1.13                      
+workflow-job:1.13                                 
+workflow-durable-task-step:1.13                   
+authentication-tokens:1.2                         
+workflow-aggregator:1.13                          
+mapdb-api:1.0.6.0                                 
+momentjs:1.1                                      
+handlebars:1.1                                    
+                                                  

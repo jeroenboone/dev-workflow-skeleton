@@ -4,6 +4,7 @@ bower_components
 node_modules
 dist
 
+.idea/
 .project
 .settings
 .classpath
